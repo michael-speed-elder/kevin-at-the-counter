@@ -1,4 +1,9 @@
+.env
 .faunarc
+
+node_modules/
+
+build/
 
 .sass-cache/
 *.css.map
