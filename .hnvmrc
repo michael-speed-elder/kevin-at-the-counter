@@ -1,3 +1,0 @@
-HNVM_NOFALLBACK=true
-HNVM_NODE_DIST=https://urbancompass.jfrog.io/urbancompass/nodejs/
-HNVM_PNPM_REGISTRY=https://urbancompass.jfrog.io/urbancompass/api/npm/pnpm-self-installer/
